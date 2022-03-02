@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.ef0922ff.css",
-    "main.js": "/static/js/main.e4ec7d18.js",
-    "static/media/portfolio1.png": "/static/media/portfolio1.f9e9cdf58f5c37b71e5f.png",
-    "static/media/portfolio2.png": "/static/media/portfolio2.145e07d111afc7a851d8.png",
-    "static/media/portfolio3.png": "/static/media/portfolio3.29b6f19327d43a9e168d.png",
-    "static/media/portfolio4.png": "/static/media/portfolio4.bc77b680786383ad996d.png",
-    "static/media/me.png": "/static/media/me.29028ef9194a468c10a3.png",
-    "static/media/cv.pdf": "/static/media/cv.eae49f0be42ab0d0279a.pdf",
-    "static/media/portfolio6.png": "/static/media/portfolio6.686ca4c805f9caf447b4.png",
-    "static/media/me-about.jpg": "/static/media/me-about.4e188fcaa365df0b6212.jpg",
-    "static/media/portfolio5.png": "/static/media/portfolio5.e475d1d7a84bd484a3e3.png",
-    "static/media/avatar3.jpg": "/static/media/avatar3.a068080d2f97d85ddbf0.jpg",
-    "static/media/avatar1.jpg": "/static/media/avatar1.0a686dfef10b03a3a4d3.jpg",
-    "static/media/avatar4.jpg": "/static/media/avatar4.eda1123afda79350536d.jpg",
-    "index.html": "/index.html",
-    "static/media/texture.svg": "/static/media/texture.53647f91cc652ad340d7.svg",
-    "main.ef0922ff.css.map": "/static/css/main.ef0922ff.css.map",
-    "main.e4ec7d18.js.map": "/static/js/main.e4ec7d18.js.map"
+    "main.css": "/AlejandraOrellano/alejandraorellano.github.io/static/css/main.fe9cfca6.css",
+    "main.js": "/AlejandraOrellano/alejandraorellano.github.io/static/js/main.faeb6021.js",
+    "static/media/portfolio1.png": "/AlejandraOrellano/alejandraorellano.github.io/static/media/portfolio1.f9e9cdf58f5c37b71e5f.png",
+    "static/media/portfolio2.png": "/AlejandraOrellano/alejandraorellano.github.io/static/media/portfolio2.145e07d111afc7a851d8.png",
+    "static/media/portfolio3.png": "/AlejandraOrellano/alejandraorellano.github.io/static/media/portfolio3.29b6f19327d43a9e168d.png",
+    "static/media/portfolio4.png": "/AlejandraOrellano/alejandraorellano.github.io/static/media/portfolio4.bc77b680786383ad996d.png",
+    "static/media/me.png": "/AlejandraOrellano/alejandraorellano.github.io/static/media/me.29028ef9194a468c10a3.png",
+    "static/media/cv.pdf": "/AlejandraOrellano/alejandraorellano.github.io/static/media/cv.eae49f0be42ab0d0279a.pdf",
+    "static/media/portfolio6.png": "/AlejandraOrellano/alejandraorellano.github.io/static/media/portfolio6.686ca4c805f9caf447b4.png",
+    "static/media/me-about.jpg": "/AlejandraOrellano/alejandraorellano.github.io/static/media/me-about.4e188fcaa365df0b6212.jpg",
+    "static/media/portfolio5.png": "/AlejandraOrellano/alejandraorellano.github.io/static/media/portfolio5.e475d1d7a84bd484a3e3.png",
+    "static/media/avatar3.jpg": "/AlejandraOrellano/alejandraorellano.github.io/static/media/avatar3.a068080d2f97d85ddbf0.jpg",
+    "static/media/avatar1.jpg": "/AlejandraOrellano/alejandraorellano.github.io/static/media/avatar1.0a686dfef10b03a3a4d3.jpg",
+    "static/media/avatar4.jpg": "/AlejandraOrellano/alejandraorellano.github.io/static/media/avatar4.eda1123afda79350536d.jpg",
+    "index.html": "/AlejandraOrellano/alejandraorellano.github.io/index.html",
+    "static/media/texture.svg": "/AlejandraOrellano/alejandraorellano.github.io/static/media/texture.53647f91cc652ad340d7.svg",
+    "main.fe9cfca6.css.map": "/AlejandraOrellano/alejandraorellano.github.io/static/css/main.fe9cfca6.css.map",
+    "main.faeb6021.js.map": "/AlejandraOrellano/alejandraorellano.github.io/static/js/main.faeb6021.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef0922ff.css",
-    "static/js/main.e4ec7d18.js"
+    "static/css/main.fe9cfca6.css",
+    "static/js/main.faeb6021.js"
   ]
 }
